@@ -1,0 +1,108 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(160, 57, 57);
+}
+
+a {
+    background-color: rgb(134, 166, 226);
+}
+
+/* '.' seleziona una classe */
+ .Back{
+    background-color: rgba(105, 180, 250, 0.568);
+ }
+/* '#' seleziona un 'id' */
+#SeeMe {
+    background-color: rgba(255, 228, 196, 0.61);
+}
+
+p strong{
+    background-color: rgba(255, 239, 91, 0.637);
+}
+ol strong{
+    background-color: rgba(3, 214, 31, 0.486);
+}
+
+h1, h2, h4, h5{
+    color: rgba(250, 235, 215, 0.644);
+}
+
+h4{
+    /* background-color: rgba(100, 190, 190, 0.281); */
+    width: 8%; 
+    height: 10px 5px 10px 5px; 
+    /* overflow: hidden; */
+    /* margin-left: 0px; */
+    margin: 10px 20px 10px 20px;
+    padding: 50px;
+    /* border: solid;
+    border-width: 2,5px;
+    border-color: rgba(146, 163, 170, 0.589); */
+    border-radius: 10px 20px 10px 20px;
+    border:rgb(134, 166, 226);
+    background-image: url(./assests/alpaca.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+
+
+
+
+}
+.pt-serif-regular {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-serif-bold {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pt-serif-regular-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-serif-bold-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.alfa-slab-one-regular {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.bungee-regular {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libertinus-keyboard-regular {
+  font-family: "Libertinus Keyboard", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

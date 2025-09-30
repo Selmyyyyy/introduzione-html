@@ -1,0 +1,75 @@
+.Box{
+    border-style: solid;
+    display: block;
+    /* inline alliniare */
+    /* inline-block */
+    /* width: 300px; */
+    height: 180px;
+    position: static;
+
+}
+
+.red{
+    background-color: rgb(192, 44, 44);
+
+}
+
+.pink{
+    background-color: pink;
+
+}
+
+.blue{
+    background-color: rgb(12, 150, 150);
+
+}
+
+.green{
+    background-color: rgb(58, 138, 58);
+
+}
+
+.orange{
+    background-color: rgb(194, 140, 40);
+
+}
+
+.violet{
+    background-color: rgb(131, 72, 131);
+
+}
+
+.yellow{
+    background-color: rgb(231, 231, 94);
+
+}
+ .absolute{
+    position:absolute;
+    width: 300px;
+    right: 150px;
+  
+ }
+ .fixed{
+    position: fixed;
+    width: 180px;
+    height: 150px;
+
+ }
+
+ .relative{
+    position: relative;
+    top:50px;
+    left: 20px;
+ }
+
+ .small-box{
+    width: 90px;
+    height: 90px;
+ }
+ 
+ .absoute-relative{
+    position: absolute;
+    left: 40px;
+    bottom: 60px;
+
+ }
